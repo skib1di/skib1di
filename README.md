@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Reva
-- 👀 I’m interested in anime, manga, and manhua.
-- 🌱 I’m currently learning Lua.
-- 💞️ I’m looking to collaborate on Roblox.
-- 📫 How to reach me: my Roblox: summerspiritlock, my email, my discord: 0shrim.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I've been coding for 5 years!
+Reva
+Currently learning Lua.
+Looking to collaborate on Roblox.
+Roblox: summerspiritlock
+Discord: 0shrim.
+Coding for 5 years!
